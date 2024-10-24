@@ -1,0 +1,7 @@
+@keyframes extension {
+    from { 
+      left: -300px;
+      opacity: 0;
+      filter: blur(3px);}
+    to { left: 0; opacity: 1 }
+  }
